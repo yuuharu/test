@@ -10,7 +10,8 @@ body {
   padding-top: 6rem;
   padding-bottom: 6rem;
   margin-bottom: 0;
-  background-color: #fff;
+  color: #000000;
+  background-color: #ffffff;
 }
 
 .jumbotron p:last-child {
