@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "http-server -o -a localhost -p 80"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuuharu/test.git"
+  },
+  "author": "yuuharu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuuharu/test/issues"
+  },
+  "homepage": "https://github.com/yuuharu/test#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
